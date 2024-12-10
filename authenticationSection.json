@@ -1,8 +1,8 @@
 {
   "type": "new",
   "authCodeText": null,
-  "userName": "****",
-  "password": "****",
+  "userName": "",
+  "password": "",
   "apiKey": "",
   "clientKey": "",
   "clientSecret": "",
@@ -16,6 +16,11 @@
       "label": "exam",
       "value": "****",
       "type": "password"
+    },
+    {
+      "type": "text",
+      "value": "textval",
+      "label": "text1"
     }
   ],
   "additionalParameters": null,
