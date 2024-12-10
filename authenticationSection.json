@@ -1,18 +1,22 @@
 {
-  "type": "basic",
+  "type": "new",
   "authCodeText": null,
   "userName": "****",
   "password": "****",
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "authorizationURL": null,
   "accessTokenURL": null,
   "oauthUserName": null,
   "oauthPassword": null,
   "scope": null,
   "customAccountFields": [
-    {}
+    {
+      "label": "exam",
+      "value": "****",
+      "type": "password"
+    }
   ],
   "additionalParameters": null,
   "tokenAddlParams": null,
